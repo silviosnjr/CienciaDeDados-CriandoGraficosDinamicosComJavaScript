@@ -19,5 +19,5 @@ async function quantidadeUsuarios() {
     document.getElementById('graficos-container').appendChild(grafico)
     Plotly.newPlot(grafico, data)
 }
-
+ 
 quantidadeUsuarios()
