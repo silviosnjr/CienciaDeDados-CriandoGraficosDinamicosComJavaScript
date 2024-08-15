@@ -46,6 +46,10 @@ nav a:hover{
     transition: transform 0.1s;
 }
 
+.grafico{
+    margin-top: 3rem;
+}
+
 #graficos-container{
     margin: 5rem;
 }
