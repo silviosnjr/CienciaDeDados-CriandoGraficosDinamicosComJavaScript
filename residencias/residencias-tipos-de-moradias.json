@@ -3,7 +3,7 @@
     "Casa terrestre rural": 0.5e9,
     "Apartamento": 1.2e9,
     "Casa em condomínio": 0.7e9,
-    "Casa móvel": 0.1e9,
     "Residência estudantil": 0.05e9,
+    "Casa móvel": 0.1e9,    
     "Outros": 0.1e9
 }
